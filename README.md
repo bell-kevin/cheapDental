@@ -2,6 +2,10 @@
 
 # 
 
+pip install pdfplumber pandas
+
+pip install requests
+
 --------------------------------------------------------------------------------------------------------------------------
 == We're Using GitHub Under Protest ==
 
